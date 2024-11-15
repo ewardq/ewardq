@@ -1,4 +1,4 @@
-### 🌊 Eduardo Martinez Piña
+### <img align="left" alt="Automotive" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=QZHox15dPPhy&format=png&color=000000" /> Eduardo Martinez Piña
 
 **`Embedded Systems Enthusiast!`**
 
@@ -11,7 +11,7 @@ The
 
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C-embedded" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
