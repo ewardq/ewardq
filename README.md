@@ -33,19 +33,19 @@ Here are some of those resources:
 
 <table><tr><td valign="top" width="33%">
 
-#### [DevOps & Linux challenges solutions](https://ewardq.vercel.app/digital-garden/sad-server-s-linux-challenges/)
+### [DevOps & Linux challenges solutions](https://ewardq.vercel.app/digital-garden/sad-server-s-linux-challenges/)
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png"></p>](https://ewardq.vercel.app/digital-garden/sad-server-s-linux-challenges/) 
 >
 > Tutorials I've made about Sad Servers' DevOps & Linux challenges!
 </td><td valign="top" width="34%">
 
-#### [LPI's Linux Essentials Certification](https://ewardq.vercel.app/digital-garden/lpi-s-linux-essentials-certification/)
+### [LPI's Linux Essentials Certification](https://ewardq.vercel.app/digital-garden/lpi-s-linux-essentials-certification/)
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png"></p>](https://ewardq.vercel.app/digital-garden/lpi-s-linux-essentials-certification/) 
 > 
 > Here you can find notes and thoughts I've created in my road to become a Certifed Linux Professional!
 </td><td valign="top" width="34%">
   
-#### [Embedded System Design using UML State Machines](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/)
+### [Embedded System Design using UML State Machines](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/)
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png"></p>](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/) 
 > 
 > This is the section where you'll find my notes about data structures and intricacies of the C++ language.
@@ -55,14 +55,14 @@ Here are some of those resources:
 
 <table><tr><td valign="top" width="33%">
 
-#### [Embedded System Design using UML State Machines](https://ewardq.vercel.app/digital-garden/embedded-system-design-using-uml-state-machines/)
+### [Embedded System Design using UML State Machines](https://ewardq.vercel.app/digital-garden/embedded-system-design-using-uml-state-machines/)
 
 > [<p align="center"><img align="center" width="250" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/UML.png"></p>](https://ewardq.vercel.app/digital-garden/embedded-system-design-using-uml-state-machines/) 
 > 
 > How to design an embedded system and then implement it in code? **Find out!**
 </td><td valign="top" width="34%">
 
-#### [Bachelor's Thesis - Embedded Navegation System](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/)
+### [Bachelor's Thesis - Embedded Navegation System](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/)
 > [<p align="center"><img align="center" width="350" src="https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png"></p>](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/) 
 > 
 > This is the embedded project I developed over the course of a year to get my Bachelor's degree.
