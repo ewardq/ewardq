@@ -10,7 +10,7 @@ The
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://icons8.com/icon/50ZQHdJTmPqw/bash" />
+<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C-embedded" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
@@ -24,7 +24,6 @@ The
 <br />
 
 #
-
 
 
 This is an ongoing project to document and store my personal projects and notes. Here are some of those:
