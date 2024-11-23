@@ -68,3 +68,51 @@ Here are some of those resources:
 > This is the embedded project I developed over the course of a year to get my Bachelor's degree.
 
 </td></tr></table>
+
+---
+
+### Electronic projects
+
+<table><tr><td valign="top" width="33%">
+
+### [Monostable Oscillator with Range from 0.1Hz to 100kHz](https://ewardq.vercel.app/electronic-projects/monostable-oscillator-with-range-from-0-1-hz-to-100k-hz/)
+> [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png"></p>](https://ewardq.vercel.app/digital-garden/sad-server-s-linux-challenges/) 
+>
+> Tutorials I've made about Sad Servers' DevOps & Linux challenges!
+</td><td valign="top" width="34%">
+
+### [Stereo Audio Amplifier](https://ewardq.vercel.app/electronic-projects/stereo-audio-amplifier/)
+> [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png"></p>](https://ewardq.vercel.app/digital-garden/lpi-s-linux-essentials-certification/) 
+> 
+> Here you can find notes and thoughts I've created in my road to become a Certifed Linux Professional!
+</td><td valign="top" width="34%">
+  
+### Anti Short-circuit Breaker
+> [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png"></p>](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/) 
+> 
+> This is the section where you'll find my notes about data structures and intricacies of the C++ language.
+
+</td></tr></table>
+
+
+<table><tr><td valign="top" width="33%">
+
+### [Monostable Oscillator with Range from 0.1Hz to 100kHz](https://ewardq.vercel.app/electronic-projects/monostable-oscillator-with-range-from-0-1-hz-to-100k-hz/)
+> [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png"></p>](https://ewardq.vercel.app/digital-garden/sad-server-s-linux-challenges/) 
+>
+> Extract the most of your 555 oscillator with this circuit! No more small wave bands!
+</td><td valign="top" width="34%">
+
+### [Stereo Audio Amplifier](https://ewardq.vercel.app/electronic-projects/stereo-audio-amplifier/)
+> [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png"></p>](https://ewardq.vercel.app/digital-garden/lpi-s-linux-essentials-certification/) 
+> 
+> Make use of your old speakers laying around with this circuit! Or create a Home audio system from scratch!
+</td><td valign="top" width="34%">
+  
+### Anti Short-circuit Breaker
+> [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png"></p>](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/) 
+> 
+> Add short-circuit protection to your DIY power supplier! Add it to your electronic prototypes!
+
+</td></tr></table>
+
