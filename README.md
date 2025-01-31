@@ -26,7 +26,6 @@ There, from the _huge_ system of subsystems that is the Automotive architecture 
 <img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
 <img align="left" alt="PuTTY" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" />
 <img align="left" alt="LabVIEW" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" />
-<img align="left" alt="CANalyzer" width="60px" style="padding-right:10px;" src="https://www.asam.net/index.php?eID=dumpFile&t=f&f=587&token=4ef97bc48257cf44882dd879d45d9a3c74eb323b" />
 
 <br />
 
