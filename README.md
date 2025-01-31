@@ -15,10 +15,15 @@ There, from the _huge_ system of subsystems that is the Automotive architecture 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C-embedded" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
+
+<img align="left" alt="ARM" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=ajfiSCDWv2KM&format=png&color=000000" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
+<img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" />
+<img align="left" alt="AWSLambda" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=Y9Kxy8Xl1id8&format=png&color=000000" />
+
 <img align="left" alt="Matlab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" />
+<img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
 <img align="left" alt="PuTTY" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" />
 <img align="left" alt="LabVIEW" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" />
 <img align="left" alt="CANalyzer" width="100px" style="padding-right:10px;" src="https://www.asam.net/index.php?eID=dumpFile&t=f&f=587&token=4ef97bc48257cf44882dd879d45d9a3c74eb323b" />
