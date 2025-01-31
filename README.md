@@ -32,6 +32,11 @@ There, from the _huge_ system of subsystems that is the Automotive architecture 
 
 #
 
+<pre>
+
+
+</pre>
+
 Day by day I make an effort to learn more about Linux, Python, C++ and embedded software in general, so I've been documenting my progress and knowledge with the hope that my explanations may be useful to someone else (: 
 
 Here are some of those resources:
