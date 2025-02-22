@@ -53,8 +53,9 @@ Here are some of those resources:
 > 
 > Here you can find notes and thoughts I've created in my road to become a Certifed Linux Professional!
 </td><td valign="top" width="34%">
-  
-### [Embedded System Design using UML State Machines](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/)
+
+
+### [Core concepts and data structures in C/C++](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/)
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png"></p>](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/) 
 > 
 > This is the section where you'll find my notes about data structures and intricacies of the C++ language.
@@ -64,12 +65,19 @@ Here are some of those resources:
 
 <table><tr><td valign="top" width="33%">
 
+### [Embedded IoT system with RESTful API — From STM32 drivers to AWS Lambda](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda)
+> [<p align="center"><img align="center" width="550" src="https://private-user-images.githubusercontent.com/72580785/415843089-a1c34c7b-0677-4fec-adbd-b4e79e4bde2c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNDk4MTIsIm5iZiI6MTc0MDI0OTUxMiwicGF0aCI6Ii83MjU4MDc4NS80MTU4NDMwODktYTFjMzRjN2ItMDY3Ny00ZmVjLWFkYmQtYjRlNzllNGJkZTJjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIyVDE4MzgzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxZWE2NWU3NTk1OGYyYWJiNzdjOGNhOGFkNzk5NDFkOWMzODRlOTMzNGJhYmRkNmNiNTM0ODkxMmEzYzgwM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5taZ9cE3ntRbj-Je9ldW8XidbxDsZNYt58ydtisHwlk"></p>](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda) 
+> 
+> In this IoT system, the AWS Lambda functions serve as the main processor of incoming data from IoT devices, 
+> such as temperature or humidity readings. An API Gateway Lambda function can be triggered when a device sends an HTTP POST request with sensor data.
+<!---
 ### [Embedded System Design using UML State Machines](https://ewardq.vercel.app/digital-garden/embedded-system-design-using-uml-state-machines/)
 
 > [<p align="center"><img align="center" width="250" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/UML.png"></p>](https://ewardq.vercel.app/digital-garden/embedded-system-design-using-uml-state-machines/) 
 > 
 > How to design an embedded system and then implement it in code? **Find out!**
 </td><td valign="top" width="34%">
+-->
 
 ### [Bachelor's Thesis - Embedded Navegation System](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/)
 > [<p align="center"><img align="center" width="350" src="https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png"></p>](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/) 
