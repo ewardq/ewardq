@@ -66,7 +66,7 @@ Here are some of those resources:
 <table><tr><td valign="top" width="33%">
 
 ### [Embedded IoT system with RESTful API — From STM32 drivers to AWS Lambda](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda)
-> [<p align="center"><img align="center" width="550" src="https://private-user-images.githubusercontent.com/72580785/415843089-a1c34c7b-0677-4fec-adbd-b4e79e4bde2c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNDk4MTIsIm5iZiI6MTc0MDI0OTUxMiwicGF0aCI6Ii83MjU4MDc4NS80MTU4NDMwODktYTFjMzRjN2ItMDY3Ny00ZmVjLWFkYmQtYjRlNzllNGJkZTJjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIyVDE4MzgzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxZWE2NWU3NTk1OGYyYWJiNzdjOGNhOGFkNzk5NDFkOWMzODRlOTMzNGJhYmRkNmNiNTM0ODkxMmEzYzgwM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5taZ9cE3ntRbj-Je9ldW8XidbxDsZNYt58ydtisHwlk"></p>](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda) 
+> [<p align="center"><img align="center" width="550" src="https://github.com/user-attachments/assets/a1c34c7b-0677-4fec-adbd-b4e79e4bde2c"></p>](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda) 
 > 
 > In this IoT system, the AWS Lambda functions serve as the main processor of incoming data from IoT devices, 
 > such as temperature or humidity readings. An API Gateway Lambda function can be triggered when a device sends an HTTP POST request with sensor data.
