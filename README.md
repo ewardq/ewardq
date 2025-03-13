@@ -1,7 +1,7 @@
 <img align="left" alt="Automotive" width="70px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=QZHox15dPPhy&format=png&color=000000" />
 
 # Eduardo Martinez Piña
-**`Embedded Systems Enthusiast!`**
+**`Linux & Embedded Systems Enthusiast!`**
 
 I'm an embedded software test engineer at Ford aspiring to take the leap into developing professionally! 
 There, from the _huge_ system of subsystems that is the Automotive architecture at Ford I've learned a lot of tools, design strategies and troubleshooting techniques regarding embedded systems. 
