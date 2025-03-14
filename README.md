@@ -46,14 +46,17 @@ Here are some of those resources:
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png"></p>](https://ewardq.vercel.app/digital-garden/sad-server-s-linux-challenges/) 
 >
 > Tutorials I've made about Sad Servers' DevOps & Linux challenges!
+
+
 </td><td valign="top" width="34%">
 
 ### [LPI's Linux Essentials Certification](https://ewardq.vercel.app/digital-garden/lpi-s-linux-essentials-certification/)
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Tux2_green.png"></p>](https://ewardq.vercel.app/digital-garden/lpi-s-linux-essentials-certification/) 
 > 
 > Here you can find notes and thoughts I've created in my road to become a Certifed Linux Professional!
-</td><td valign="top" width="34%">
 
+
+</td><td valign="top" width="34%">
 
 ### [Core concepts and data structures in C/C++](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/)
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png"></p>](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/) 
@@ -64,6 +67,31 @@ Here are some of those resources:
 
 
 <table><tr><td valign="top" width="33%">
+  
+### [Ubuntu home server](https://github.com/ewardq/Linux-home-server)
+> [<p align="center"><img align="center" width="170" src="https://github.com/ewardq/Linux-home-server/blob/main/Ubuntu_home_server.png"></p>](https://github.com/ewardq/Linux-home-server) 
+> 
+> This physical Ubuntu home server covers my data needs in a local private network using Syncthing and custom Bash scripts for system monitoring, and network security policies configuration.
+
+
+</td><td valign="top" width="34%">
+  
+### [Bachelor's Thesis - Embedded Navegation System](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/)
+> [<p align="center"><img align="center" width="350" src="https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png"></p>](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/) 
+> 
+> This is the embedded project I developed over the course of a year to get my Bachelor's degree.
+  
+</td></tr></table>
+
+
+
+
+
+
+
+
+
+<table><tr><td valign="top" width="50%">
 
 ### [Embedded IoT system with RESTful API — From STM32 drivers to AWS Lambda](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda)
 > [<p align="center"><img align="center" width="550" src="https://github.com/user-attachments/assets/a1c34c7b-0677-4fec-adbd-b4e79e4bde2c"></p>](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda) 
@@ -78,11 +106,6 @@ Here are some of those resources:
 > How to design an embedded system and then implement it in code? **Find out!**
 </td><td valign="top" width="34%">
 -->
-
-### [Bachelor's Thesis - Embedded Navegation System](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/)
-> [<p align="center"><img align="center" width="350" src="https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png"></p>](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/) 
-> 
-> This is the embedded project I developed over the course of a year to get my Bachelor's degree.
 
 </td></tr></table>
 
