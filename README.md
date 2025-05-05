@@ -29,14 +29,12 @@ There, from the _huge_ system of subsystems that is the Automotive architecture 
 
 <br />
 
-
+<br />
 
 ### Certifications
 <img align="left" alt="AWS Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 <img align="left" alt="LPI Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" />
 <img align="left" alt="Google IT Automation Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" />
-
-
  
 <br />
 
