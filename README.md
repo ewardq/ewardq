@@ -27,7 +27,6 @@ At Ford, helping my team acceleate their work with Linux and networks through au
 <img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" />
 <img align="left" alt="AWSLambda" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=Y9Kxy8Xl1id8&format=png&color=000000" />
 
-<img align="left" alt="Matlab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
 
 <br />
