@@ -34,6 +34,8 @@ At Ford, helping my team acceleate their work with Linux and networks through au
 
 <br />
 
+<br />
+
 ### Certifications
 <img align="left" alt="AWS Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 <img align="left" alt="LPI Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" />
