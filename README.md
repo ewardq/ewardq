@@ -1,22 +1,27 @@
-<img align="left" alt="Automotive" width="70px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=QZHox15dPPhy&format=png&color=000000" />
+
+<img align="left" width="60px" alt="penguin" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a8662a0f-9f0b-4ead-8545-74f899e51e4a" />
 
 # Eduardo Martinez Piña
-**`Linux & Embedded Systems Enthusiast!`**
+**`Linux & Cloud Enthusiast!`**
 
-I'm an embedded software test engineer at Ford aspiring to take the leap into developing professionally! 
-There, from the _huge_ system of subsystems that is the Automotive architecture at Ford I've learned a lot of tools, design strategies and troubleshooting techniques regarding embedded systems. 
+I'm a Linux Automation Engineer at Ford aspiring to dive into DevOps and cloud professionally!
+At Ford, helping my team acceleate their work with Linux and networks through automation I learned a lot about complex systems, design strategies and troubleshooting techniques regarding embedded systems. 
 
 ---
 
 ### Languages and Tools
 
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Terraform" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+<img align="left" alt="Ansible" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+<img align="left" alt="Kubernetes" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
+<img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" />
+
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C-embedded" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
 
-<img align="left" alt="ARM" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=ajfiSCDWv2KM&format=png&color=000000" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" />
@@ -24,14 +29,13 @@ There, from the _huge_ system of subsystems that is the Automotive architecture 
 
 <img align="left" alt="Matlab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
-<img align="left" alt="PuTTY" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" />
-<img align="left" alt="LabVIEW" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" />
 
 <br />
 
 <br />
 
 ### Certifications
+<img align="left" alt="AWS Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 <img align="left" alt="AWS Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 <img align="left" alt="LPI Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" />
 <img align="left" alt="Google IT Automation Cert" width="70px" style="padding-right:10px;" src="https://images.credly.com/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" />
