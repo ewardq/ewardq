@@ -5,6 +5,7 @@
 **`Linux & Cloud Enthusiast!`**
 
 I'm a Linux Automation Engineer at Ford aspiring to dive into DevOps and cloud professionally!
+
 At Ford, helping my team acceleate their work with Linux and networks through automation I learned a lot about complex systems, design strategies and troubleshooting techniques regarding embedded systems. 
 
 ---
@@ -46,7 +47,7 @@ At Ford, helping my team acceleate their work with Linux and networks through au
 
 ---
 
-Day by day I make an effort to learn more about Linux, Python, C++ and embedded software in general, so I've been documenting my progress and knowledge with the hope that my explanations may be useful to someone else (: 
+Day by day I make an effort to learn more about Linux, Python, C++ and Cloud in general, so I've been documenting my progress and knowledge with the hope that my explanations may be useful to someone else (: 
 
 Here are some of those resources:
 
