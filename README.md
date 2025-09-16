@@ -15,7 +15,7 @@ At Ford, helping my team acceleate their work with Linux and networks through au
 <img align="left" alt="Terraform" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
 <img align="left" alt="Ansible" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
 <img align="left" alt="Kubernetes" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
-<img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" />
+<img align="left" alt="Prometheus" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" />
 
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/python/original.svg" />
