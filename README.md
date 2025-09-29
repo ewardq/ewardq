@@ -56,6 +56,61 @@ Day by day I make an effort to learn more about Linux, Python, C++ and Cloud in 
 Here are some of those resources:
 
 <table><tr><td valign="top" width="33%">
+  
+### [Automated CI/CD System with SonarQube, GitHub Actions, and AWS Deployment](https://github.com/ewardq/epam_python_task)
+> [<p align="center"><img align="center" width="600" src="https://raw.githubusercontent.com/ewardq/epam_python_task/07b8fe79fcbfc4aee272bdc54f63bcca04f2ec3a/repo_images/Complete_CICD.svg"></p>](https://github.com/ewardq/epam_python_task) 
+> 
+> This project implements a fully automated DevSecOps pipeline for Python packages, integrating code quality, security, and deployment workflows.
+
+</td><td valign="top" width="34%">
+  
+### [Embedded IoT system with RESTful API — From STM32 drivers to AWS Lambda](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda)
+> [<p align="center"><img align="center" width="400" src="https://github.com/user-attachments/assets/a1c34c7b-0677-4fec-adbd-b4e79e4bde2c"></p>](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda) 
+> 
+> In this IoT system, the AWS Lambda functions serve as the main processor of incoming data from IoT devices, 
+> such as temperature or humidity readings. An API Gateway Lambda function can be triggered when a device sends an HTTP POST request with sensor data.
+  
+</td></tr></table>
+
+<!--
+<table><tr><td valign="top" width="50%">
+
+### [Automated CI/CD System with SonarQube, GitHub Actions, and AWS Deployment](https://github.com/ewardq/epam_python_task)
+> [<p align="center"><img align="center" width="550" src="https://github.com/ewardq/epam_python_task/blob/master/repo_images/Complete_CICD.svg"></p>](https://github.com/ewardq/epam_python_task) 
+> 
+> This project implements a fully automated DevSecOps pipeline for Python packages, integrating code quality, security, and deployment workflows.
+
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+### [Embedded IoT system with RESTful API — From STM32 drivers to AWS Lambda](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda)
+> [<p align="center"><img align="center" width="550" src="https://github.com/user-attachments/assets/a1c34c7b-0677-4fec-adbd-b4e79e4bde2c"></p>](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda) 
+> 
+> In this IoT system, the AWS Lambda functions serve as the main processor of incoming data from IoT devices, 
+> such as temperature or humidity readings. An API Gateway Lambda function can be triggered when a device sends an HTTP POST request with sensor data.
+
+</td></tr></table>
+-->
+
+<table><tr><td valign="top" width="33%">
+  
+### [Ubuntu home server](https://github.com/ewardq/Linux-home-server)
+> [<p align="center"><img align="center" width="170" src="https://github.com/ewardq/Linux-home-server/blob/main/Ubuntu_home_server.png"></p>](https://github.com/ewardq/Linux-home-server) 
+> 
+> This physical Ubuntu home server covers my data needs in a local private network using Syncthing and custom Bash scripts for system monitoring, and network security policies configuration.
+
+</td><td valign="top" width="34%">
+  
+### [Bachelor's Thesis - Embedded Navegation System](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/)
+> [<p align="center"><img align="center" width="350" src="https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png"></p>](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/) 
+> 
+> This is the embedded project I developed over the course of a year to get my Bachelor's degree.
+  
+</td></tr></table>
+
+
+<table><tr><td valign="top" width="33%">
 
 ### [DevOps & Linux challenges solutions](https://ewardq.vercel.app/digital-garden/sad-server-s-linux-challenges/)
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/SadServers-icon-2.png"></p>](https://ewardq.vercel.app/digital-garden/sad-server-s-linux-challenges/) 
@@ -70,57 +125,13 @@ Here are some of those resources:
 > 
 > Here you can find notes and thoughts I've created in my road to become a Certifed Linux Professional!
 
-
 </td><td valign="top" width="34%">
+
 
 ### [Core concepts and data structures in C/C++](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/)
 > [<p align="center"><img align="center" width="90" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/Cpp%20modified.png"></p>](https://ewardq.vercel.app/digital-garden/data-structures-in-cpp/) 
 > 
 > This is the section where you'll find my notes about data structures and intricacies of the C++ language.
-
-</td></tr></table>
-
-
-<table><tr><td valign="top" width="33%">
-  
-### [Ubuntu home server](https://github.com/ewardq/Linux-home-server)
-> [<p align="center"><img align="center" width="170" src="https://github.com/ewardq/Linux-home-server/blob/main/Ubuntu_home_server.png"></p>](https://github.com/ewardq/Linux-home-server) 
-> 
-> This physical Ubuntu home server covers my data needs in a local private network using Syncthing and custom Bash scripts for system monitoring, and network security policies configuration.
-
-
-</td><td valign="top" width="34%">
-  
-### [Bachelor's Thesis - Embedded Navegation System](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/)
-> [<p align="center"><img align="center" width="350" src="https://user-images.githubusercontent.com/72580785/174127072-ced03c71-d4f8-4e68-b0a6-a4794c3fb9c8.png"></p>](https://ewardq.vercel.app/digital-garden/bachelor-s-thesis-embedded-navegation-system/) 
-> 
-> This is the embedded project I developed over the course of a year to get my Bachelor's degree.
-  
-</td></tr></table>
-
-
-
-
-
-
-
-
-
-<table><tr><td valign="top" width="50%">
-
-### [Embedded IoT system with RESTful API — From STM32 drivers to AWS Lambda](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda)
-> [<p align="center"><img align="center" width="550" src="https://github.com/user-attachments/assets/a1c34c7b-0677-4fec-adbd-b4e79e4bde2c"></p>](https://github.com/ewardq/STM32_with_ESP32_and_AWS_Lambda) 
-> 
-> In this IoT system, the AWS Lambda functions serve as the main processor of incoming data from IoT devices, 
-> such as temperature or humidity readings. An API Gateway Lambda function can be triggered when a device sends an HTTP POST request with sensor data.
-<!---
-### [Embedded System Design using UML State Machines](https://ewardq.vercel.app/digital-garden/embedded-system-design-using-uml-state-machines/)
-
-> [<p align="center"><img align="center" width="250" src="https://ewardq.vercel.app/img/user/Digital%20Garden/Icons-and-images/UML.png"></p>](https://ewardq.vercel.app/digital-garden/embedded-system-design-using-uml-state-machines/) 
-> 
-> How to design an embedded system and then implement it in code? **Find out!**
-</td><td valign="top" width="34%">
--->
 
 </td></tr></table>
 
